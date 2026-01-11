@@ -1,4 +1,4 @@
-# Elite SRE / DevOps / Platform Engineer Journey 🚀
+# Elite SRE / DevOps / Platform Engineer Journey
 
 **Goal:** Crack ₹1 Cr+ compensation roles in India by becoming an elite engineer, not just a tool user.
 
