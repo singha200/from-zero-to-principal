@@ -58,6 +58,7 @@
 - [Merge Intervals (56)](https://leetcode.com/problems/merge-intervals/) → merging time ranges/alert windows
 - [Task Scheduler (621)](https://leetcode.com/problems/task-scheduler/) → scheduling with cooldown (cron-like or batch jobs)
 
+## Notes
 - After solving, think: How could this pattern help parse CloudTrail logs / aggregate metrics / detect anomalies / rate-limit API calls?
 - Solve in Python — focus on clean code + verbal explanation of time/space + "how this applies to logs/metrics/K8s".
 - Practice variations: "Adapt this to find top 5 error types in a streaming log" or "Add sliding window eviction".
